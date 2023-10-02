@@ -1,0 +1,4 @@
+configobj==5.0.6
+tornado==6.3.3
+ujson==5.8.0
+scipy==1.11.3
